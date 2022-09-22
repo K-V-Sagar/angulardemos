@@ -21,19 +21,21 @@
   ],
   "posts": [
     {
-      "id": 1,
-      "title": "First Post",
-      "content": "Testing HTTP from angular. so far so good."
-    },
-    {
-      "title": "X",
-      "content": "Test post 1",
+      "title": "y",
+      "content": "yy",
       "id": 2
     },
     {
-      "title": "x",
-      "content": "xxx",
+      "title": "z",
+      "content": "zzzz",
       "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "",
+      "password": ""
     }
   ]
 }
